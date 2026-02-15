@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ミルク",
+  "base_artist": "羊文学",
+  "createdAt": "2026-02-15T14:21:28.406592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_ミルク_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミルク (Milk)",
+      "artist": "Chara",
+      "has_synced": false,
+      "path": "select/02_ミルク_(Milk)_Chara.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カルア・ミルク",
+      "artist": "SPEED",
+      "has_synced": false,
+      "path": "select/03_カルア・ミルク_SPEED.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "キズ",
+      "has_synced": true,
+      "path": "select/04_ミルク_キズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/05_ミルク_Chara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/06_ミルク_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミルク - MTV Unplugged Version",
+      "artist": "VAMPS",
+      "has_synced": false,
+      "path": "select/07_ミルク_-_MTV_Unplugged_Version_VAMPS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/08_ミルク_H△G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミルク ティー",
+      "artist": "Noriko Sakai",
+      "has_synced": false,
+      "path": "select/09_ミルク_ティー_Noriko_Sakai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミルク",
+      "artist": "みらくらぱーく！",
+      "has_synced": true,
+      "path": "select/10_ミルク_みらくらぱーく!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミルク (ヒチョン)",
+      "artist": "HALO",
+      "has_synced": true,
+      "path": "select/11_ミルク_(ヒチョン)_HALO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "レベルEX(おまけ)：ミルク  ふりーとーく♪",
+      "artist": "M-STUDIO",
+      "has_synced": true,
+      "path": "select/12_レベルEX(おまけ)_ミルク_ふりーとーく♪_M-STUDIO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "レベルEX(おまけ)：モブMIX本編内両耳イカせ用BGV ミルク&ココア Mix",
+      "artist": "M-STUDIO",
+      "has_synced": true,
+      "path": "select/13_レベルEX(おまけ)_モブMIX本編内両耳イカせ用BGV_ミルク&ココア_Mix_M-STUDIO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "レベルEX(おまけ)：本編内両耳イカせ用BGV ミルク&ココア Mix",
+      "artist": "M-STUDIO",
+      "has_synced": true,
+      "path": "select/14_レベルEX(おまけ)_本編内両耳イカせ用BGV_ミルク&ココア_Mix_M-STUDIO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ミルク (JEWEL ver.)",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/15_ミルク_(JEWEL_ver.)_Chara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミルク",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_ミルク_羊文学.txt"
+    }
+  ]
+}
